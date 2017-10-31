@@ -6,3 +6,6 @@
 - Client aidl客户端
 
 - [博客地址 http://www.jianshu.com/p/b1ff8c0f3aec](http://www.jianshu.com/p/b1ff8c0f3aec)
+
+2、2017-10-30 设计模式（1）：策略模式
+   - eadFirst/src/com/jdqm/headfirst/strategy
