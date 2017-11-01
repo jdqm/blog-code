@@ -10,4 +10,9 @@
 
 2、2017-10-30 设计模式（1）：策略模式
 
-- eadFirst/src/com/jdqm/headfirst/strategy
+- HeadFirst/src/com/jdqm/headfirst/strategy
+
+
+3、2017-11-1 设计模式（2）：观察者模式
+
+- HeadFirst/src/com/jdqm/headfirst/observer
