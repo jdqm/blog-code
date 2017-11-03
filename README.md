@@ -16,3 +16,7 @@
 3、2017-11-1 设计模式（2）：观察者模式
 
 - HeadFirst/src/com/jdqm/headfirst/observer
+
+4、2017-11-2 设计模式（3）：装饰者模式
+
+- HeadFirst/src/com/jdqm/headfirst/decorator
