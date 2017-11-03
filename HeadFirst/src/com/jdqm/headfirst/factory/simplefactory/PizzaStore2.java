@@ -1,7 +1,5 @@
 package com.jdqm.headfirst.factory.simplefactory;
 
-import java.text.SimpleDateFormat;
-
 /**
  * Created by Jdqm on 2017-11-3.
  */
