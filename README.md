@@ -20,3 +20,7 @@
 4、2017-11-2 设计模式（3）：装饰者模式
 
 - HeadFirst/src/com/jdqm/headfirst/decorator
+
+5、2017-11-3 设计模式（4）：工厂模式
+
+- HeadFirst/src/com/jdqm/headfirst/factory
