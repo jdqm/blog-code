@@ -24,3 +24,7 @@
 5、2017-11-3 设计模式（4）：工厂模式
 
 - HeadFirst/src/com/jdqm/headfirst/factory
+
+6、2017-11-8 设计模式（5）：单例 模式
+
+- HeadFirst/src/com/jdqm/headfirst/singleton
