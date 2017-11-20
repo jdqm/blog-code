@@ -32,3 +32,7 @@
 7、2017-11-20 设计模式（6）：命令模式
 
 - HeadFirst/src/com/jdqm/headfirst/ommand
+
+8、2017-11-20 设计模式（7）：适配器模式
+
+- HeadFirst/src/com/jdqm/headfirst/adapter
