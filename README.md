@@ -12,27 +12,16 @@
 
 - HeadFirst/src/com/jdqm/headfirst/strategy
 
+- 设计模式（2）：观察者模式 observer
 
-3、2017-11-1 设计模式（2）：观察者模式
+- 设计模式（3）：装饰者模式 decorator
 
-- HeadFirst/src/com/jdqm/headfirst/observer
+- 设计模式（4）：工厂模式 factory
 
-4、2017-11-2 设计模式（3）：装饰者模式
+- 设计模式（5）：单例模式 singleton
 
-- HeadFirst/src/com/jdqm/headfirst/decorator
+- 设计模式（6）：命令模式 ommand
 
-5、2017-11-3 设计模式（4）：工厂模式
+- 设计模式（7）：适配器模式 adapter
 
-- HeadFirst/src/com/jdqm/headfirst/factory
 
-6、2017-11-8 设计模式（5）：单例模式
-
-- HeadFirst/src/com/jdqm/headfirst/singleton
-
-7、2017-11-20 设计模式（6）：命令模式
-
-- HeadFirst/src/com/jdqm/headfirst/ommand
-
-8、2017-11-20 设计模式（7）：适配器模式
-
-- HeadFirst/src/com/jdqm/headfirst/adapter
