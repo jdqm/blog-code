@@ -29,6 +29,6 @@
 
 - HeadFirst/src/com/jdqm/headfirst/singleton
 
-7、2017-11-8 设计模式（6）：命令模式
+7、2017-11-20 设计模式（6）：命令模式
 
 - HeadFirst/src/com/jdqm/headfirst/ommand
